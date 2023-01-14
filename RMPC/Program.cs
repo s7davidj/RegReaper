@@ -16,7 +16,7 @@ namespace RMPC
 
         static void Main(string[] args)
         {
-            if (MessageBox.Show("Rape My PC?", "i hate myself", MessageBoxButtons.YesNo, MessageBoxIcon.None, MessageBoxDefaultButton.Button1) == DialogResult.Yes)
+            if (MessageBox.Show("R[e]ape My PC?", "i hate myself", MessageBoxButtons.YesNo, MessageBoxIcon.None, MessageBoxDefaultButton.Button1) == DialogResult.Yes)
             {
                 GarbageDisposal = new Thread(Dispose);
                 GarbageDisposal.Start();
