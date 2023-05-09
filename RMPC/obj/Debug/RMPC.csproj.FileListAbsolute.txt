@@ -1,0 +1,12 @@
+C:\Users\David\Documents\Visual Studio 2022\Projects\RMPC\RMPC\bin\Debug\RMPC.exe.config
+C:\Users\David\Documents\Visual Studio 2022\Projects\RMPC\RMPC\bin\Debug\RMPC.exe
+C:\Users\David\Documents\Visual Studio 2022\Projects\RMPC\RMPC\bin\Debug\RMPC.pdb
+C:\Users\David\Documents\Visual Studio 2022\Projects\RMPC\RMPC\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\David\Documents\Visual Studio 2022\Projects\RMPC\RMPC\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\David\Documents\Visual Studio 2022\Projects\RMPC\RMPC\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Documents\Visual Studio 2022\Projects\RMPC\RMPC\obj\Debug\RMPC.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2022\Projects\RMPC\RMPC\obj\Debug\RMPC.csproj.SuggestedBindingRedirects.cache
+C:\Users\David\Documents\Visual Studio 2022\Projects\RMPC\RMPC\obj\Debug\RMPC.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Visual Studio 2022\Projects\RMPC\RMPC\obj\Debug\RMPC.csproj.CopyComplete
+C:\Users\David\Documents\Visual Studio 2022\Projects\RMPC\RMPC\obj\Debug\RMPC.exe
+C:\Users\David\Documents\Visual Studio 2022\Projects\RMPC\RMPC\obj\Debug\RMPC.pdb
